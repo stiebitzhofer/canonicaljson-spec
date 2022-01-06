@@ -1,1 +1,0 @@
-﻿{"TestValues":[{"ActualFrom":"0.36","Unit":"percent","ValueName": "Fe"},{"ActualFrom":"0.27","Unit":"percent","ValueName": "Si"}}

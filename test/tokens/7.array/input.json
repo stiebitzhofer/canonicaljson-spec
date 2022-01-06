@@ -1,0 +1,19 @@
+﻿{
+  "TestValues": [
+    {
+      "ActualFrom": "1.27",
+      "ValueName": "Si",
+      "Unit": "percent"
+    },
+    {
+      "ActualFrom": "2.36",
+      "Unit": "percent",
+      "ValueName": "Fe"
+    },
+    {
+      "ActualFrom": "0.07",
+      "Unit": "percent",
+      "ValueName": "Cu"
+    }
+  ]
+}
